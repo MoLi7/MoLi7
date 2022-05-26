@@ -9,7 +9,7 @@ I am a Senior Scientist @GDIT in sustainability research and development.
 <a href="https://www.linkedin.com/in/mo-li-phd/">
   <img align="left" alt="Mo's LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
-<a href="https://scholar.google.com/citations?user=uVAj3mwAAAAJ&hl=en">
+<a href="https://scholar.google.com/citations?user=oxfLKSkAAAAJ&hl=en">
   <img align="left" alt="Mo's GoogleScholar" width="48px" src="https://img.icons8.com/material-outlined/48/000000/google-scholar.png"/>
 </a>
 <a href="https://orcid.org/0000-0002-3672-1622">
