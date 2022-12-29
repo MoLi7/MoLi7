@@ -1,6 +1,6 @@
 ## 👋🏼 Hello! I'm Mo.
 
-I am a Carbon Expert @Watershed
+I am a Carbon Expert @[Watershed](https://watershed.com/).
 
 - 🎯 I'm currently helping companies measure and cut greenhouse gas (GHG) emissions. 
 - 📦 I used to develop open-source packages, incl. [useeior](https://github.com/USEPA/useeior) and [stateior](https://github.com/USEPA/stateior), in support of the United States Environmental Protection Agency's [USEEIO Modeling Framework](https://github.com/USEPA/USEEIO).
