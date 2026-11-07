@@ -1,11 +1,12 @@
 ## 👋🏼 Hello! I'm Mo.
 
-I am a Carbon Expert @[Watershed](https://watershed.com/).
+I'm an Environmental Scientist @ [Watershed](https://watershed.com/) and a Technical Lead @ [Cornerstone Sustainability Data Initiative](https://cornerstonedata.org/), where I lead development of a multi-regional environmentally-extended input-output (EEIO) model.
 
-- 🎯 I'm currently helping companies measure and cut greenhouse gas (GHG) emissions. 
-- 📦 I used to develop open-source packages, incl. [useeior](https://github.com/USEPA/useeior) and [stateior](https://github.com/USEPA/stateior), in support of the United States Environmental Protection Agency's [USEEIO Modeling Framework](https://github.com/USEPA/USEEIO).
-- 💬 Ask me about anything related to corporate carbon accounting, life cycle assessment, and USEEIO.
-- 📣 Check out my latest work about quantifying [Scope 3 emissions](https://www.epa.gov/climateleadership/scope-3-inventory-guidance) using the EPA's [Supply Chain Greenhouse Gas Emission Factors](https://github.com/USEPA/supply-chain-factors).
+- 🎯 I'm currently helping companies measure and cut greenhouse gas (GHG) emissions and building the [Cornerstone EEIO model](https://zenodo.org/records/23396891) that merges USEEIO and CEDA into a single open, transparent foundation for Scope 3 emission factors.
+- 📦 Previously, I developed open-source packages including [useeior](https://github.com/USEPA/useeior) and [stateior](https://github.com/USEPA/stateior) in support of the EPA's [USEEIO Modeling Framework](https://github.com/USEPA/USEEIO).
+- 🌍 My work spans life cycle assessment and corporate carbon accounting across Scope 1/2/3, aligned with the GHG Protocol, SBTi, CDP, and PCAF..
+- 💬 Ask me about model development, Scope 3 methodology, and anything related to corporate carbon accounting, life cycle assessment, etc.
+
 
 <a href="https://www.linkedin.com/in/mo-li-phd/">
   <img align="left" alt="Mo's LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
